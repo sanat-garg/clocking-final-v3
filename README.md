@@ -8,6 +8,7 @@ To view the application, open the `index.html` file in any web browser.
 
 ## Features and Functionality
 - Displays a heading with the text "Success!".
+- Shows the current date in the header navbar.
 - Built using only vanilla HTML, CSS, and JavaScript.
 
 ## Special Instructions or Requirements
